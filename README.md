@@ -46,4 +46,5 @@ Track your progress • Unlock ranks • Earn secret trophies
 ---
 
 ## 🙌 Special Thanks
+- [Github Trophies (lucthienphong1120)](https://github.com/lucthienphong1120/github-trophies)
 - [Github Profile Trophy (ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
